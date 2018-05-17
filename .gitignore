@@ -1,0 +1,6 @@
+# editor backup files
+\#*\#
+*~
+
+# target binary
+mkmf
